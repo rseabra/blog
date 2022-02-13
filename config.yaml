@@ -6,6 +6,25 @@ subtitle: 'Fucked Up Beyond Any Recognition'
 copyright: 'All publication dates © Rui Miguel Silva Seabra, please see details on https://blog.1407.org/about/'
 sectionPagesMenu: "main"
 theme: 'ananke'
+categories:
+  - mublog
+  - blog
+  - free-sw
+    - omnewrotate
+    - pam-ipa-hbac
+    - tsclient-software-livre
+    - elmdentica
+    - enlightenment
+    - firefox-os
+  - galleries
+  - hardware
+  - how-to
+  - me
+  - poison
+  - rant
+  - society
+  - the-final-frontier
+  - uncategorized
 params:
   author: 'Rui M. Seabra'
   description: 'Fucked Up Beyond All Recognition'
