@@ -5,6 +5,10 @@ permalinks:
   posts: '/:year/:month/:day/:title/'
   pages: '/:title/'
 copyright: 'All publication dates © Rui Miguel Silva Seabra, please see details on https://blog.1407.org/about/'
+menu:
+  main:
+  categories:
+  tags:
 theme: 'ananke'
 params:
   ananke_socials:
