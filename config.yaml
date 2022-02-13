@@ -1,7 +1,7 @@
 author: 'Rui M. Seabra <a href="mailto:rms@1407.org">rms@1407.org</a>'
 baseURL: 'https://blog.1407.org'
 languageCode: 'en-us'
-title: 'FU-BAR'
+title: 'FU-BAR - Fucked Up Beyond Any Recognition'
 subtitle: 'Fucked Up Beyond Any Recognition'
 copyright: 'All publication dates © Rui Miguel Silva Seabra, please see details on https://blog.1407.org/about/'
 sectionPagesMenu: "main"
@@ -9,7 +9,11 @@ theme: 'ananke'
 taxonomies:
   category: categories
   tag: tags
-paginate: true
+SectionPagesMenu: "main"
+Paginate: 3
+googleAnalytics: ""
+enableRobotsTXT: true
+
 sitemap:
   changefreq: "monthly"
   priority: 0.5
@@ -19,6 +23,7 @@ params:
   show_reading_time: true
   description: 'Fucked Up Beyond All Recognition'
   background_color_class: "bg-near-black"
+  recent_posts_number: 3
   ananke_socials:
   - name: mastodon
     url: https://mastodon.social/@RuiSeabra
