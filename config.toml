@@ -1,3 +1,4 @@
 baseURL = 'https://blog.1407.org/'
 languageCode = 'en-us'
 title = 'FU-BAR - Fucked Up Beyond All Recognition'
+theme = "ananke"
