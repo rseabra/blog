@@ -2,9 +2,6 @@ author: 'Rui M. Seabra <a href="mailto:rms@1407.org">rms@1407.org</a>'
 baseURL: 'https://blog.1407.org'
 languageCode: 'en-us'
 title: 'FU-BAR'
-permalinks:
-  posts: '/:year/:month/:day/:title/'
-  pages: '/:title/'
 copyright: 'All publication dates © Rui Miguel Silva Seabra, please see details on https://blog.1407.org/about/'
 menu:
   - main
