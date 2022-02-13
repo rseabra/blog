@@ -1,6 +1,6 @@
-body,header {
+body {
  background-image: url("/images/cropped-eu-header-20200715-3.png") !important;
- background-color: black;
+ background-color: black !important;
  background-repeat: no-repeat;
  background-attachment: inherit;
  background-position: right top;
