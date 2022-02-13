@@ -1,39 +1,7 @@
-.widget li a {
-	color: lightblue !important;
-}
-
-.entry-content p {
-	font-family: sans-serif;
-}
-
-.entry-content ul {
-	margin-left: 1em;
-}
-.entry-content p a {
-	color: lightblue !important;
-}
-
-body header {
+header {
  background-image: url("/images/cropped-eu-header-20200715-3.png");
  background-color: black;
  background-repeat: no-repeat;
  background-attachment: inherit;
  background-position: right top;
  }
-
-.site-content-contain {
- background-color: #000 !important;
-}
-
-
-.navigation-top {
- background-color: #000 !important;
-}
-/*
-.site-branding {
- background-image: url("/wp-content/uploads/2017/02/graphics-lightning-837903.gif");
- background-repeat: no-repeat;
- background-attachment: inherit;
- background-position: left bottom;
- }
-*/
