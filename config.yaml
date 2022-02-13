@@ -1,12 +1,16 @@
-baseURL: 'https://blog.1407.org/'
+baseURL: 'https://blog.1407.org'
 languageCode: 'en-us'
 title: 'FU-BAR - Fucked Up Beyond All Recognition'
+copyright: 'All publication dates © Rui Miguel Silva Seabra, please see details on {{ baseURL }}/about/'
 theme: 'ananke'
 params:
   ananke_socials:
   - name: mastodon
     url: https://mastodon.social/@RuiSeabra
+    label: 'Follow me on the fediverse'
   - name: twitter
     url: https://twitter.com/RuiSeabra
+    label: 'Follow me on Twitter (warning, may be censored)'
   - name: facebook
     url: https://www.facebook.com/rui.m.seabra/
+    label: 'Follow me on Facebook (warning, may be censored)'
