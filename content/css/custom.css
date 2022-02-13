@@ -14,7 +14,7 @@
 }
 
 header {
- background-image: url("/images/cropped-eu-header-20200715-3.png");
+ background-image: url("/images/cropped-eu-header-20200715-3.png") !important;
  background-color: black;
  background-repeat: no-repeat;
  background-attachment: inherit;
