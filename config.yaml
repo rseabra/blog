@@ -21,4 +21,6 @@ params:
     url: https://www.linkedin.com/in/ruiseabra/
     label: 'Follow me on LinkedIn (warning, may be censored)'
   - name: rss
+  custom_css:
+  - custom.css
   body_classes: 'avenir bg-near-black'
