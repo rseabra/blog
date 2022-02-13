@@ -4,9 +4,7 @@ title: 'FU-BAR - Fucked Up Beyond All Recognition'
 permalinks:
   posts: '/:year/:month/:day/:title/'
   pages: '/:title/'
-copyright: 'All publication dates © Rui Miguel Silva Seabra, please see details on {{ baseURL }}/about/'
-taxonomies:
-
+copyright: 'All publication dates © Rui Miguel Silva Seabra, please see details on https://blog.1407.org/about/'
 theme: 'ananke'
 params:
   ananke_socials:
@@ -19,5 +17,8 @@ params:
   - name: facebook
     url: https://www.facebook.com/rui.m.seabra/
     label: 'Follow me on Facebook (warning, may be censored)'
+  - name: linkedin
+    url: https://www.linkedin.com/in/ruiseabra/
+    label: 'Follow me on LinkedIn (warning, may be censored)'
   - name: rss
   body_classes: 'avenir bg-near-black'
