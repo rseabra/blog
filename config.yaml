@@ -9,10 +9,16 @@ theme: 'ananke'
 taxonomies:
   category: categories
   tag: tags
+paginate: true
+sitemap:
+  changefreq: "monthly"
+  priority: 0.5
+  filename: "sitemap.xml"
 params:
   author: 'Rui M. Seabra'
   show_reading_time: true
   description: 'Fucked Up Beyond All Recognition'
+  background_color_class: "bg-near-black"
   ananke_socials:
   - name: mastodon
     url: https://mastodon.social/@RuiSeabra
