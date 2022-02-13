@@ -13,8 +13,8 @@
 	color: lightblue !important;
 }
 
-header {
- background-image: url("/images/cropped-eu-header-20200715-3.png") !important;
+body header {
+ background-image: url("/images/cropped-eu-header-20200715-3.png");
  background-color: black;
  background-repeat: no-repeat;
  background-attachment: inherit;
