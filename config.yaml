@@ -20,4 +20,4 @@ params:
     url: https://www.facebook.com/rui.m.seabra/
     label: 'Follow me on Facebook (warning, may be censored)'
   - name: rss
-  background_color_class: 'bg-near-black'
+  body_classes: 'avenir bg-near-black'
