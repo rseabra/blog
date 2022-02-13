@@ -12,6 +12,8 @@ taxonomies:
 params:
   author: 'Rui M. Seabra'
   description: 'Fucked Up Beyond All Recognition'
+  custom_css:
+  - css/custom.css
   ananke_socials:
   - name: mastodon
     url: https://mastodon.social/@RuiSeabra
