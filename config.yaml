@@ -3,10 +3,7 @@ baseURL: 'https://blog.1407.org'
 languageCode: 'en-us'
 title: 'FU-BAR'
 copyright: 'All publication dates © Rui Miguel Silva Seabra, please see details on https://blog.1407.org/about/'
-menu:
-  - main
-  - categories
-  - tags
+sectionPagesMenu: "main"
 theme: 'ananke'
 params:
   author: 'Rui M. Seabra'
