@@ -11,6 +11,7 @@ taxonomies:
   tag: tags
 params:
   author: 'Rui M. Seabra'
+  show_reading_time: true
   description: 'Fucked Up Beyond All Recognition'
   custom_css:
   - css/custom.css
